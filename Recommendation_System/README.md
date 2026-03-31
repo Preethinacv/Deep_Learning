@@ -2,8 +2,6 @@ This project builds a product recommendation system using customer transaction d
 
 🚀 Features
 
-
-
 Data cleaning and preprocessing
 
 Customer-item matrix creation
@@ -16,15 +14,15 @@ Top-N product recommendations
 
 🧠 Approach
 
-Clean dataset (remove nulls, invalid values)
+-> Clean dataset (remove nulls, invalid values)
 
-Create customer-item matrix
+-> Create customer-item matrix
 
-Convert to binary format
+-> Convert to binary format
 
-Compute cosine similarity
+-> Compute cosine similarity
 
-Recommend top similar products
+-> Recommend top similar products
 
 🛠 Tech Stack
 
